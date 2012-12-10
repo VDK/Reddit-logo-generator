@@ -15,6 +15,8 @@ $reddit = new reddit("USERNAME", "PASSWORD");
 </pre>
 </notextile>
 
+h2. Example
+
 See if I have any mail waiting for me at http://veradekok.nl/New%20Tab%20progsels/reddit-logo.php
 
 If I were to have mail, the image would look like this: http://veradekok.nl/New%20Tab%20progsels/mail_reddit_logo.svg
