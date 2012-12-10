@@ -1,4 +1,7 @@
 h1. Reddit logo generator
+This generates a SVG image that has a orangered envelope when you've got mail. 
+
+I use is to illustrate the shortcut to Reddit in the Google Chrome extention Speed Dial 2 (http://speeddial2.com )
 
 Makes use of the Reddit PHP SDK :https://github.com/jcleblanc/reddit-php-sdk
 
