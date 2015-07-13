@@ -1,3 +1,5 @@
+h1. Due to changes to the Reddit API, this script isn't functioning atm - 2015-07-13
+
 h1. Reddit logo generator
 
 This generates a SVG image that has a orangered envelope when you've got mail. 
